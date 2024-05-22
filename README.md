@@ -1,2 +1,2 @@
 # Calci
-Calculator Application using Java SWING
+Simple Calculator using Java Swing
