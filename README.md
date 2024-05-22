@@ -1,2 +1,2 @@
 # Calci
-Calculator Application Developed using Java SWING
+Calculator Application using Java SWING
